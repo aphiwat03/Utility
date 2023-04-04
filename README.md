@@ -11,13 +11,13 @@ https://www.jetbrains.com/idea/download/#section=windows (Ultimate เสีย�
 ![message-Image-1680586012527.jpg](https://i.postimg.cc/DfPc1khT/message-Image-1680586012527.jpg)]
 
 #### 4.Destination Folderเลือกต่ำแหน่งที่ต้องการติดตั้งFolder
-![message-Image-1680586529590.jpg](https://i.postimg.cc/wBDNHLTp/message-Image-1680586529590.jpg)
+![2021-12-11-19-27-45.webp](https://i.postimg.cc/9MWzLHB3/2021-12-11-19-27-45.webp)
 
 #### 5.ทำการเลือกOptionที่ต้องการแล้วกดNext
-![message-Image-1680586535555.jpg](https://i.postimg.cc/RFXNVTkj/message-Image-1680586535555.jpg)
+![2021-12-11-19-28-15.webp](https://i.postimg.cc/PqcTwGFz/2021-12-11-19-28-15.webp)
 
 #### 6.กดInstallเพิ่มติดตั้ง
-![message-Image-1680586540779.jpg](https://i.postimg.cc/dtSNTPR0/message-Image-1680586540779.jpg)
+![2021-12-11-19-28-22.webp](https://i.postimg.cc/rs2Tf1TD/2021-12-11-19-28-22.webp)
 
 #### 7.โปรแกรมกำลังติดตั้งลงบนเครื่องคอมพิวเตอร์ของคุณ
 ![message-Image-1680586544009.jpg](https://i.postimg.cc/prcC8zFS/message-Image-1680586544009.jpg)
